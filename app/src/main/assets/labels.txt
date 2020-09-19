@@ -1,0 +1,10 @@
+1 Rupee Coin
+2 Rupee Coin
+5 Rupee Coin
+10 Rupee Note
+20 Rupee Note
+50 Rupee Note
+100 Rupee Note
+500 Rupee Note
+1000 Rupee Note
+5000 Rupee Note
