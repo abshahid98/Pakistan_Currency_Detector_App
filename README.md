@@ -1,5 +1,5 @@
 
-# Pakistan Currency Detector App
+# Pakistani Currency Detector App
 ## About
 Pakistani Currency detector using Deep learning Image classification and transfer Learning applying Resenet50 model. It have 10 classes from 1 rupee coin to 5000 rupee note covering all currency of Pakistan.
 
